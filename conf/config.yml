@@ -1,0 +1,9 @@
+es :
+  url : "http://127.0.0.1:9200"
+kafka :
+  address:
+    - "123.56.231.37:9092"
+etcd :
+  address:
+    - "127.0.0.1:2379"
+  collect_key: "collect_log"
